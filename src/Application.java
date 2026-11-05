@@ -1,4 +1,4 @@
-package singletonPattern;
+package Application;
 
 public class Application {
     private static Application instance;
